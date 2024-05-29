@@ -1,0 +1,11 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "css.format.enable": false,
+  "css.lint.unknownAtRules": "ignore"
+}
