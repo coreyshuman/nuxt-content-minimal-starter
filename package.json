@@ -1,7 +1,7 @@
 {
   "name": "nuxt-content-minimal-starter",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "MIT-0",
   "private": false,
   "type": "module",
   "scripts": {
